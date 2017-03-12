@@ -1,0 +1,12 @@
+c:\users\admin\documents\visual studio 2015\Projects\NN\NN\bin\Debug\NN.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\NN\NN\obj\Debug\NN.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\NN\NN\bin\Debug\NN.exe
+c:\users\admin\documents\visual studio 2015\Projects\NN\NN\bin\Debug\NN.pdb
+c:\users\admin\documents\visual studio 2015\Projects\NN\NN\obj\Debug\NN.exe
+c:\users\admin\documents\visual studio 2015\Projects\NN\NN\obj\Debug\NN.pdb
+c:\Users\Admin\Documents\Visual Studio 2015\Projects\MLP Neuron\NN\bin\Debug\NN.exe.config
+c:\Users\Admin\Documents\Visual Studio 2015\Projects\MLP Neuron\NN\obj\Debug\NN.exe
+c:\Users\Admin\Documents\Visual Studio 2015\Projects\MLP Neuron\NN\obj\Debug\NN.pdb
+c:\Users\Admin\Documents\Visual Studio 2015\Projects\MLP Neuron\NN\bin\Debug\NN.exe
+c:\Users\Admin\Documents\Visual Studio 2015\Projects\MLP Neuron\NN\bin\Debug\NN.pdb
+c:\Users\Admin\Documents\Visual Studio 2015\Projects\MLP Neuron\NN\obj\Debug\NN.csprojResolveAssemblyReference.cache
