@@ -42,9 +42,16 @@ namespace NN
 
         public void SetIn(double[] IN)
         {
-            for(int i = 0; i < _in.Length; i++)
+            if(_in.Length == IN.Length)
             {
-                _in[i] = IN[i];
+                _in = IN;
+            }
+            else
+            {
+                for (int i = 0; i < _in.Length; i++)
+                {
+                    _in[i] = IN[i];
+                }
             }
         }
 
